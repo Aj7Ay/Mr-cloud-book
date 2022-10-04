@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.Ajmrcloud.AjMrcloudApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.554 s - in com.example.Ajmrcloud.AjMrcloudApplicationTests
